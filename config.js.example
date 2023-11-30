@@ -1,0 +1,10 @@
+// global config
+
+window.config = {
+  DEEPGRAM_KEY: PUT KEY HERE,
+
+  deepgramArgs: {
+    model: "nova-2",
+    endpointing: true,
+  },
+};
